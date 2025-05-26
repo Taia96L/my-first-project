@@ -1,3 +1,3 @@
 # my-first-project
 
-This is my first project. It's great
+This is my first project
